@@ -35,7 +35,7 @@ Follow these steps to set up and run the app:
    git clone https://github.com/your-username/dice_app.git
 2. Navigate to the project directory
    ```bash
-   cd bmi
+   cd dice
 3. Install the required dependencies:
    ```bash
    flutter pub get
